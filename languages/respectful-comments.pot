@@ -1,0 +1,50 @@
+# Copyright (C) 2010 Respectful Comments
+# This file is distributed under the same license as the Respectful Comments package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Respectful Comments 0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/respectful-comments\n"
+"POT-Creation-Date: 2011-07-26 20:05:50+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: respectful-comments.php:25 respectful-comments.php:31
+msgid "Respectful Comments Options"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (Respectful Comments 0.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: respectful-comments.php:25
+msgid "Respectful Comments"
+msgstr ""
+
+#: respectful-comments.php:32
+msgid ""
+"The Respectful Comments plugin replaces the text on the comments submit "
+"button."
+msgstr ""
+
+#: respectful-comments.php:37
+msgid "Save Changes"
+msgstr ""
+
+#: respectful-comments.php:46
+msgid "Comments submit button text"
+msgstr ""
+
+#: respectful-comments.php:59
+msgid "My comment respects the blog and its readers"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Description goes here ..."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Elad Salomons"
+msgstr ""
+
